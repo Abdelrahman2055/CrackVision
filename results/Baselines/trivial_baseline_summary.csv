@@ -1,0 +1,2 @@
+Baseline,Method,Threshold,Evaluated_Images,Mean_IoU,Min_IoU,Max_IoU
+Trivial Baseline,Inverse Global Thresholding,127,265,0.1570978837367765,0.005803983643318823,0.8107886294113258

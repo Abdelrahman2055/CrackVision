@@ -1,0 +1,3 @@
+Baseline,Method,Mean_IoU
+Trivial,Inverse Threshold = 127,0.1570978837367765
+Simple,Inverse Otsu + 3x3 Opening,0.10343170150315341
